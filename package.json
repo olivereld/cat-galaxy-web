@@ -2,6 +2,7 @@
   "name": "next-app",
   "version": "0.1.0",
   "private": true,
+  "description": "Bootstraping project for nextjs + prisma + mongodb",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
